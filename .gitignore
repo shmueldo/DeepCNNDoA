@@ -1,0 +1,7 @@
+# Ignore everything in this directory
+*.pdf
+*.pyc
+*.txt
+./plotting
+# Except this file
+!.gitignore
