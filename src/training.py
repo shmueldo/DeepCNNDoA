@@ -1,5 +1,5 @@
 """
-Subspace-Net
+DeepCNN
 
 Details
 ----------

@@ -1,4 +1,4 @@
-"""Subspace-Net 
+"""DeepCNN
 Details
 ----------
 Name: system_model.py

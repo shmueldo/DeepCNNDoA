@@ -1,4 +1,4 @@
-"""Subspace-Net main script 
+"""DeepCNN main script 
     Details
     -------
     Name: main.py

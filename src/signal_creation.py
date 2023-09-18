@@ -1,4 +1,4 @@
-"""Subspace-Net 
+"""DeepCNN 
 Details
 ----------
 Name: signal_creation.py
